@@ -25,7 +25,10 @@ The app provides a feature to update students about the latest tech news based o
 Conclusion
 Overall, E-Campus is a well-rounded college management app that provides features that are useful for students, teachers, and administrators. It provides an efficient way to manage academic activities and communication between students and faculty members.
 
-![Screenshot_1683045270](https://github.com/Muhammed-Shiyas/E-Campus/assets/103557196/774a33aa-6d2a-499f-8bee-5b25448cc6e5)
+![Doc1_00001](https://github.com/Muhammed-Shiyas/E-Campus/assets/103557196/7a470237-cfbf-440a-b380-5c807dcdb56a)
+
+![Doc1_00002](https://github.com/Muhammed-Shiyas/E-Campus/assets/103557196/c495459f-8733-4428-97b6-2760f6156c10)
+
 
 
 
