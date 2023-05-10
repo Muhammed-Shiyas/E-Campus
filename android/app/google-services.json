@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "66082999101",
+    "firebase_url": "https://roulebaseauth-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "roulebaseauth",
+    "storage_bucket": "roulebaseauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66082999101:android:a54b0a12a7625ee3f0d354",
+        "android_client_info": {
+          "package_name": "com.example.roule_based_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66082999101-3r30f79h8reathdrq4mvmm7deqlob4bn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roule_based_auth",
+            "certificate_hash": "117f9e98231519bdd1b9500aa2619dfc3e06bcef"
+          }
+        },
+        {
+          "client_id": "66082999101-16b2mq05qtuoec1g9hc89ms3vitjalk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUyrQCn13E-b8g0GzW_TBPCqhT5-GcDvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66082999101-16b2mq05qtuoec1g9hc89ms3vitjalk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
